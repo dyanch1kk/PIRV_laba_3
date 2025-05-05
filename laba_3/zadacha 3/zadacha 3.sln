@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zad3_asinc_timer_server", "zad3_asinc_timer_server\zad3_asinc_timer_server.vcxproj", "{A659CEAF-5E37-4193-80FA-2014EDB57E44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zad3_asinc_timer_client", "zad3_asinc_timer_client\zad3_asinc_timer_client.vcxproj", "{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Debug|x64.ActiveCfg = Debug|x64
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Debug|x64.Build.0 = Debug|x64
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Debug|x86.ActiveCfg = Debug|Win32
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Debug|x86.Build.0 = Debug|Win32
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Release|x64.ActiveCfg = Release|x64
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Release|x64.Build.0 = Release|x64
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Release|x86.ActiveCfg = Release|Win32
+		{A659CEAF-5E37-4193-80FA-2014EDB57E44}.Release|x86.Build.0 = Release|Win32
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Debug|x64.ActiveCfg = Debug|x64
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Debug|x64.Build.0 = Debug|x64
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Debug|x86.Build.0 = Debug|Win32
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Release|x64.ActiveCfg = Release|x64
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Release|x64.Build.0 = Release|x64
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Release|x86.ActiveCfg = Release|Win32
+		{C8F0FB06-1CF6-42F9-8F1E-A1D38698DE8A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029532AA-A1CC-4923-8B9A-7EA09A8CBABF}
+	EndGlobalSection
+EndGlobal
